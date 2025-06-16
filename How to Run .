@@ -1,0 +1,6 @@
+Clone the repository:
+                    git clone https://github.com/BhupendraTiwari-11/Weather-App-Using-API.git
+Navigate to the project directory:
+                    cd Weather-App-Using-API
+Run the app:
+          python weather_app.py
