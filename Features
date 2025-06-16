@@ -1,0 +1,5 @@
+Enter the name of an Indian city to get weather details.
+Displays temperature (°C), weather description, and humidity (%).
+Shows a simple text-based weather icon (e.g., ☀️ for Sunny).
+Light blue background for a weather-themed UI.
+Error handling for invalid city names.
